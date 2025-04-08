@@ -8,7 +8,7 @@ The project is open source and maintained by Oracle Corp. The home page for the 
 
 ## Requirements
 
-* PHP 8.0
+* PHP 8.2 | 8.3 | 8.4
 
 ## Installation
 
